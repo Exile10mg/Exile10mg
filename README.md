@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/micha%c5%82-bory%c5%84-04a413236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micha%c5%82-bory%c5%84-04a413236/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uct4ruu9m5ml9jz84zkvspgq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uct4ruu9m5ml9jz84zkvspgq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/micha%c5%82-bory%c5%84-04a413236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micha%c5%82-bory%c5%84-04a413236/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c//uct4ruu9m5ml9jz84zkvspgq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/uct4ruu9m5ml9jz84zkvspgq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
