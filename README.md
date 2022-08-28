@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Maik</h1>
-<h3 align="center">A passionate developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exile10mg&label=Profile%20views&color=0e75b6&style=flat" alt="exile10mg" /> </p>
 
