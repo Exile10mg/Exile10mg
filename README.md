@@ -4,13 +4,11 @@
 
 - 🔭 I’m currently working on **simple projects**
 
-- 🌱 I’m currently learning **Python, C++, JavaScript, C**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Exile10mg](https://github.com/Exile10mg)
 
-- 📝 I regularly write articles on [https://bor-dev.com/](https://bor-dev.com/)
-
-- 📫 How to reach me **admin@bor-dev.com**
+- 📫 How to reach me **boryn3it@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
