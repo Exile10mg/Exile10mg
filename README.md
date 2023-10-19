@@ -8,12 +8,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Exile10mg](https://github.com/Exile10mg)
 
-- 📫 How to reach me **boryn3it@gmail.com**
+- 📫 How to reach me **kontakt@borem.pl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/micha%c5%82-bory%c5%84-04a413236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micha%c5%82-bory%c5%84-04a413236/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCt4rUU9m5Ml9jZ84ZkvsPGQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/uct4ruu9m5ml9jz84zkvspgq" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micha%c5%82-bory%c5%84-04a413236/" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/uct4ruu9m5ml9jz84zkvspgq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
