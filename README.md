@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maik</h1>
+<h1 align="center">Hi 👋, I'm Mike</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exile10mg&label=Profile%20views&color=0e75b6&style=flat" alt="exile10mg" /> </p>
 
